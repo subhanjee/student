@@ -10,7 +10,7 @@ function Accommodation() {
       <AccDetail />
       <Footer />
     </div>
-  );
+  ); 
 }
 
 export default Accommodation;

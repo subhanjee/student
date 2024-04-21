@@ -1,6 +1,5 @@
 import React from "react";
-import { DownOutlined } from "@ant-design/icons";
-import { Button, Dropdown, Radio, Checkbox, Switch } from "antd";
+import { Switch } from "antd";
 import {
   UnorderedListOutlined,
   AppstoreOutlined,
@@ -9,72 +8,9 @@ import {
 } from "@ant-design/icons";
 import Cards from "../cards";
 
-const onChange = (checkedValues) => {
-  console.log("checked = ", checkedValues);
-};
-const plainOptions = ["Double", "En-Suite", "Entire Place", "Flat"];
 
-const items = [
-  {
-    key: "1",
-    label: <p className="text-[#172A7D] font-bold">Accommodation Type</p>,
-  },
-  {
-    key: "2",
-    label: (
-      <p>
-        <Radio className="text-[#172A7D] font-bold">
-          Student Accommodation
-        </Radio>
-        <p>
-          Purpose built student rooms with onsite teams,
-          <br /> facilities and community.
-        </p>
-      </p>
-    ),
-  },
-  {
-    key: "3",
-    label: (
-      <p>
-        <Radio className="text-[#172A7D] font-bold">Private Let</Radio>
-        <p>Private or shared living in a house or apartment.</p>
-      </p>
-    ),
-  },
-];
-const item1 = [
-  {
-    key: "1",
-    label: (
-      <Checkbox.Group
-        options={plainOptions}
-        defaultValue={["Double"]}
-        onChange={onChange}
-      />
-    ),
-  },
-  {
-    key: "2",
-    label: (
-      <Checkbox.Group
-        options={plainOptions}
-        defaultValue={["Double"]}
-        onChange={onChange}
-      />
-    ),
-  },
-  {
-    key: "3",
-    label: (
-      <Checkbox.Group
-        options={plainOptions}
-        defaultValue={["Double"]}
-        onChange={onChange}
-      />
-    ),
-  },
-];
+
+
 function AccDetail() {
   return (
     <div>
@@ -99,85 +35,103 @@ function AccDetail() {
         </div>
         <hr />
         <div className="container gap-2 mb-4 lg flex  justify-between items-center flexc">
-            <div  className="flex gap-1 hi">
-          <Dropdown
-            menu={{
-              items,
-            }}
-            autoFocus={false}
-          >
-            <a onClick={(e) => e.preventDefault()}>
-              <Button className="text-[#172A7D] text-[.8rem]">
-                Accommodation Type
-                <DownOutlined />
-              </Button>
-            </a>
-          </Dropdown>
-          <Dropdown
-            menu={{
-              items: item1,
-            }}
-            autoFocus={false}
-          >
-            <a onClick={(e) => e.preventDefault()}>
-              <Button className="text-[#172A7D] text-[.8rem]">
-                Room Type
-                <DownOutlined />
-              </Button>
-            </a>
-          </Dropdown>
-          <Dropdown
-            menu={{
-              items: item1,
-            }}
-            autoFocus={false}
-          >
-            <a onClick={(e) => e.preventDefault()}>
-              <Button className="text-[#172A7D] text-[.8rem]">
-                Facilities
-                <DownOutlined />
-              </Button>
-            </a>
-          </Dropdown>
-          <Dropdown
-            menu={{
-              items: item1,
-            }}
-            autoFocus={false}
-          >
-            <a onClick={(e) => e.preventDefault()}>
-              <Button className="text-[#172A7D] text-[.8rem]">
-                Availability
-                <DownOutlined />
-              </Button>
-            </a>
-          </Dropdown>
-          <Dropdown
-            menu={{
-              items: item1,
-            }}
-            autoFocus={false}
-          >
-            <a onClick={(e) => e.preventDefault()}>
-              <Button className="text-[#172A7D] text-[.8rem]">
-                Weekly Budget
-                <DownOutlined />
-              </Button>
-            </a>
-          </Dropdown>
-          <Dropdown
-            menu={{
-              items: item1,
-            }}
-            autoFocus={false}
-          >
-            <a onClick={(e) => e.preventDefault()}>
-              <Button className="text-[#172A7D] text-[.8rem]">
-                Cancellation Policy
-                <DownOutlined />
-              </Button>
-            </a>
-          </Dropdown>
+          <div className="flex gap-1 hi">
+            <div class="inline-block relative w-45">
+              <select class="block appearance-none  bg-white border border-gray-400 hover:border-gray-500 px-4 text-[.8rem] py-2 pr-8 rounded shadow leading-tight focus:outline-none focus:shadow-outline">
+                <option> Accommodation Type</option>
+                <option>Option 2</option>
+                <option>Option 3</option>
+              </select>
+              <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
+                <svg
+                  class="fill-current h-4 w-4"
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 20 20"
+                >
+                  <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+                </svg>
+              </div>
+            </div>
+            <div class="inline-block relative w-45">
+              <select class="block appearance-none  bg-white border border-gray-400 hover:border-gray-500 px-4 text-[.8rem] py-2 pr-8 rounded shadow leading-tight focus:outline-none focus:shadow-outline">
+                <option> Room Type</option>
+                <option>Option 2</option>
+                <option>Option 3</option>
+              </select>
+              <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
+                <svg
+                  class="fill-current h-4 w-4"
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 20 20"
+                >
+                  <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+                </svg>
+              </div>
+            </div>
+            <div class="inline-block relative w-45">
+              <select class="block appearance-none  bg-white border border-gray-400 hover:border-gray-500 px-4 text-[.8rem] py-2 pr-8 rounded shadow leading-tight focus:outline-none focus:shadow-outline">
+                <option>Facilities</option>
+                <option>Option 2</option>
+                <option>Option 3</option>
+              </select>
+              <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
+                <svg
+                  class="fill-current h-4 w-4"
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 20 20"
+                >
+                  <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+                </svg>
+              </div>
+            </div>
+            <div class="inline-block relative w-45">
+              <select class="block appearance-none  bg-white border border-gray-400 hover:border-gray-500 px-4 text-[.8rem] py-2 pr-8 rounded shadow leading-tight focus:outline-none focus:shadow-outline">
+                <option>Availability</option>
+                <option>Option 2</option>
+                <option>Option 3</option>
+              </select>
+              <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
+                <svg
+                  class="fill-current h-4 w-4"
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 20 20"
+                >
+                  <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+                </svg>
+              </div>
+            </div>
+            <div class="inline-block relative w-45">
+              <select class="block appearance-none  bg-white border border-gray-400 hover:border-gray-500 px-4 text-[.8rem] py-2 pr-8 rounded shadow leading-tight focus:outline-none focus:shadow-outline">
+                <option>Weekly Budget</option>
+                <option>Option 2</option>
+                <option>Option 3</option>
+              </select>
+              <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
+                <svg
+                  class="fill-current h-4 w-4"
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 20 20"
+                >
+                  <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+                </svg>
+              </div>
+            </div>
+            <div class="inline-block relative w-45">
+              <select class="block appearance-none  bg-white border border-gray-400 hover:border-gray-500 px-4 text-[.8rem] py-2 pr-8 rounded shadow leading-tight focus:outline-none focus:shadow-outline">
+                <option> Cancellation Policy</option>
+                <option>Option 2</option>
+                <option>Option 3</option>
+              </select>
+              <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
+                <svg
+                  class="fill-current h-4 w-4"
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 20 20"
+                >
+                  <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+                </svg>
+              </div>
+            </div>
           </div>
           <div className="flex gap-2 mt-1 md mt-0">
             <div className="bg-white text-center border-spacing-1 rounded-[.2rem] w-[2rem] p-1 bor">
@@ -187,29 +141,22 @@ function AccDetail() {
               <AppstoreOutlined />
             </div>
             <div>
-              <Dropdown
-                menu={{
-                  items,
-                }}
-                autoFocus={false}
-              >
-                <a
-                  onClick={(e) => e.preventDefault()}
-                  style={{ color: "#172A7D", textDecoration: "none" }}
-                >
-                  <Button className="text-[#172A7D] text-[.8rem] flex items-center gap-1">
-                    <img
-                      src="https://assets.casita.com/_next/static/media/sort-icon.46910d46.svg"
-                      alt="abc"
-                    />{" "}
-                    <div> Sort By</div>
-                    <div>
-                      {" "}
-                      <DownOutlined />
-                    </div>
-                  </Button>
-                </a>
-              </Dropdown>
+              <div class="inline-block relative w-45">
+                <select class="block appearance-none  bg-white border border-gray-400 hover:border-gray-500 px-4 text-[.8rem] py-2 pr-8 rounded shadow leading-tight focus:outline-none focus:shadow-outline">
+                  <option>Sort By</option>
+                  <option>Option 2</option>
+                  <option>Option 3</option>
+                </select>
+                <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
+                  <svg
+                    class="fill-current h-4 w-4"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 20 20"
+                  >
+                    <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+                  </svg>
+                </div>
+              </div>
             </div>
             <div>
               <div className="flex items-center gap-1 bor w-[8rem] p-[.12rem]">
@@ -230,7 +177,7 @@ function AccDetail() {
             </div>
           </div>
         </div>
-        <Cards/>
+        <Cards />
       </div>
     </div>
   );

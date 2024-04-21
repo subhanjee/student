@@ -1,170 +1,148 @@
 [
-    {
-        "id":1,
-        "title":"Grand Felda House - Flexible T.... ",
-        "img":[
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-86425977220230714033147PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-195590628220220802032047PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-155731824120220802032043PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-65734295120220802032053PM.jpeg?auto=compress,format&trim=auto&fit=clamp"
-        ],
-        "location":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
-        "time":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
-        "enSuite":"En-Suite",
-        "price":"£340"
-    },
-    {
-        "id":2,
-        "title":"Vega - Flexible Tenancies",
-        "img":[
-            "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-87830580720220802032055PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-188012237120230714033150PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-31736904020230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-40364418920230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp"
-        ],
-        "location":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
-        "time":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
-        "enSuite":"En-Suite",
-        "price":"£340"
-    },
-    {
-        "id":3,
-        "title":"Grand Felda House - Flexible T.... ",
-        "img":[
-            "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-87830580720220802032055PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-188012237120230714033150PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-31736904020230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-40364418920230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp"
-        ],
-        "location":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
-        "time":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
-        "enSuite":"En-Suite",
-        "price":"£340"
-    },
-    {
-        "id":4,
-        "title":"Vega - Flexible Tenancies",
-        "img":[
-            "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-87830580720220802032055PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-188012237120230714033150PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-31736904020230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-40364418920230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp"
-        ],
-        "location":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
-        "time":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
-        "enSuite":"En-Suite",
-        "price":"£340"
-    },
-    {
-        "id":5,
-        "title":"Vega - Flexible Tenancies",
-        "img":[
-            "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-87830580720220802032055PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-188012237120230714033150PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-31736904020230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-40364418920230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp"
-        ],
-        "location":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
-        "time":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
-        "enSuite":"En-Suite",
-        "price":"£340"
-    },
-    {
-        "id":6,
-        "title":"Grand Felda House - Flexible T.... ",
-        "img":[
-            "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-87830580720220802032055PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-188012237120230714033150PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-31736904020230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-40364418920230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp"
-        ],
-        "location":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
-        "time":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
-        "enSuite":"En-Suite",
-        "price":"£340"
-    },
-    {
-        "id":7,
-        "title":"Grand Felda House - Flexible T.... ",
-        "img":[
-            "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-87830580720220802032055PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-188012237120230714033150PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-31736904020230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-40364418920230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp"
-        ],
-        "location":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
-        "time":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
-        "enSuite":"En-Suite",
-        "price":"£340"
-    },
-    {
-        "id":8,
-        "title":"Grand Felda House - Flexible T.... ",
-        "img":[
-            "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-87830580720220802032055PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-188012237120230714033150PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-31736904020230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-40364418920230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp"
-        ],
-        "location":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
-        "time":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
-        "enSuite":"En-Suite",
-        "price":"£340"
-    },
-    {
-        "id":9,
-        "title":"Vega - Flexible Tenancies",
-        "img":[
-            "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-87830580720220802032055PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-188012237120230714033150PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-31736904020230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-40364418920230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp"
-        ],
-        "location":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
-        "time":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
-        "enSuite":"En-Suite",
-        "price":"£340"
-    },
-    {
-        "id":10,
-        "title":"Vega - Flexible Tenancies",
-        "img":[
-            "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-87830580720220802032055PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-188012237120230714033150PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-31736904020230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-40364418920230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp"
-        ],
-        "location":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
-        "time":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
-        "enSuite":"En-Suite",
-        "price":"£340"
-    },
-    {
-        "id":11,
-        "title":"Grand Felda House - Flexible T.... ",
-        "img":[
-            "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-87830580720220802032055PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-188012237120230714033150PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-31736904020230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-40364418920230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp"
-        ],
-        "location":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
-        "time":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
-        "enSuite":"En-Suite",
-        "price":"£340"
-    },
-    {
-        "id":12,
-        "title":"Grand Felda House - Flexible T.... ",
-        "img":[
-            "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-87830580720220802032055PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-188012237120230714033150PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-31736904020230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
-            "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-40364418920230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp"
-        ],
-        "location":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
-        "time":"Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
-        "enSuite":"En-Suite",
-        "price":"£340"
-    }
+  {
+    "id": 1,
+    "title": "Grand Felda House - Flexible T.... ",
+    "img": "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-86425977220230714033147PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img1": "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-195590628220220802032047PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img2": "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-155731824120220802032043PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img3": "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-65734295120220802032053PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "location": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
+    "time": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
+    "enSuite": "En-Suite",
+    "price": "£340"
+  },
+  {
+    "id": 2,
+    "title": "Vega - Flexible Tenancies",
+    "img":"https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-87830580720220802032055PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img1":"https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-188012237120230714033150PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img2": "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-31736904020230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img3":"https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-40364418920230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "location": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
+    "time": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
+    "enSuite": "En-Suite",
+    "price": "£340"
+  },
+  {
+    "id": 3,
+    "title": "Grand Felda House - Flexible T.... ",
+    "img": "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-86425977220230714033147PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img1": "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-195590628220220802032047PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img2": "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-155731824120220802032043PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img3": "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-65734295120220802032053PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "location": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
+    "time": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
+    "enSuite": "En-Suite",
+    "price": "£340"
+  },
+  {
+    "id": 4,
+    "title": "Vega - Flexible Tenancies",
+    "img":"https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-87830580720220802032055PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img1":"https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-188012237120230714033150PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img2": "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-31736904020230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img3":"https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-40364418920230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "location": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
+    "time": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
+    "enSuite": "En-Suite",
+    "price": "£340"
+  },
+  {
+    "id": 5,
+    "title": "Vega - Flexible Tenancies",
+    "img":"https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-87830580720220802032055PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img1":"https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-188012237120230714033150PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img2": "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-31736904020230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img3":"https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-40364418920230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "location": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
+    "time": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
+    "enSuite": "En-Suite",
+    "price": "£340"
+  },
+  {
+    "id": 6,
+    "title": "Grand Felda House - Flexible T.... ",
+    "img": [
+      "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-87830580720220802032055PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+      "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-188012237120230714033150PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+      "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-31736904020230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+      "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-40364418920230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp"
+    ],
+    "location": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
+    "time": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
+    "enSuite": "En-Suite",
+    "price": "£340"
+  },
+  {
+    "id": 7,
+    "title": "Grand Felda House - Flexible T.... ",
+    "img":"https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-87830580720220802032055PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img1":"https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-188012237120230714033150PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img2": "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-31736904020230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img3":"https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-40364418920230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "location": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
+    "time": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
+    "enSuite": "En-Suite",
+    "price": "£340"
+  },
+  {
+    "id": 8,
+    "title": "Grand Felda House - Flexible T.... ",
+    "img":"https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-87830580720220802032055PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img1":"https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-188012237120230714033150PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img2": "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-31736904020230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img3":"https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-40364418920230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "location": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
+    "time": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
+    "enSuite": "En-Suite",
+    "price": "£340"
+  },
+  {
+    "id": 9,
+    "title": "Vega - Flexible Tenancies",
+    "img": "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-86425977220230714033147PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img1": "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-195590628220220802032047PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img2": "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-155731824120220802032043PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img3": "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-65734295120220802032053PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "location": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
+    "time": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
+    "enSuite": "En-Suite",
+    "price": "£340"
+  },
+  {
+    "id": 10,
+    "title": "Vega - Flexible Tenancies",
+    "img": "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-86425977220230714033147PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img1": "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-195590628220220802032047PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img2": "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-155731824120220802032043PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img3": "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-65734295120220802032053PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "location": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
+    "time": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
+    "enSuite": "En-Suite",
+    "price": "£340"
+  },
+  {
+    "id": 11,
+    "title": "Grand Felda House - Flexible T.... ",
+    "img": "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-86425977220230714033147PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img1": "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-195590628220220802032047PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img2": "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-155731824120220802032043PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img3": "https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-65734295120220802032053PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "location": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
+    "time": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
+    "enSuite": "En-Suite",
+    "price": "£340"
+  },
+  {
+    "id": 12,
+    "title": "Grand Felda House - Flexible T.... ",
+    "img":"https://casita-img.imgix.net/uploads/buildings/103436/building/orig/vega-london-87830580720220802032055PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img1":"https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-188012237120230714033150PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img2": "https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-31736904020230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "img3":"https://casita-img.imgix.net/uploads/buildings/133899/building/orig/grand-felda-house-wembley-40364418920230714033148PM.jpeg?auto=compress,format&trim=auto&fit=clamp",
+    "location": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom",
+    "time": "Grand Felda House, Empire Way, Wembley HA9 0EF, United Kingdom, HA9 0EF",
+    "enSuite": "En-Suite",
+    "price": "£340"
+  }
 ]

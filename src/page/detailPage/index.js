@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "../../components/header";
 import HeroSection from "../../components/heroSection";
- import Footer from "../../footer";
+import Footer from "../../footer";
 import AlphabetArray from "../../components/alphabetArray";
 
 function DetailPage() {
@@ -20,8 +20,8 @@ function DetailPage() {
         }
         heroImg="https://www.casita.com/images/countries/1/orig/uk-77089916720240220021231PM.png"
       />
-      <AlphabetArray/>
-       <Footer />
+      <AlphabetArray />
+      <Footer />
     </div>
   );
 }

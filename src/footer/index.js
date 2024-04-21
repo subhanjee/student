@@ -1,4 +1,4 @@
-import { Col, Row, Input } from "antd";
+import { Input } from "antd";
 import React from "react";
 import {
   FacebookOutlined,
@@ -13,8 +13,8 @@ const onSearch = (value, _e, info) => console.log(info?.source, value);
 function Footer() {
   return (
     <div className="bg-[#172A7E] padd-div">
-      <Row justify="center">
-        <Col xl={3} lg={3} md={3} xs={10}>
+      <div  className="container grid grid-cols-2 md:grid-cols-6">
+        <div>
           <div className="flex justify-center items-center text-white">
             <div>
               <h5>UK</h5>
@@ -26,8 +26,8 @@ function Footer() {
               <p>Manchester</p>
             </div>
           </div>
-        </Col>
-        <Col xl={3} lg={3} md={3} xs={10}>
+        </div>
+        <div>
           <div className="flex justify-center items-center text-white">
             <div>
               <h5>Australia</h5>
@@ -39,8 +39,8 @@ function Footer() {
               <p>Canberra</p>
             </div>
           </div>
-        </Col>
-        <Col xl={3} lg={3} md={3} xs={10}>
+        </div>
+        <div>
           <div className="flex justify-center items-center text-white">
             <div>
               <h5>USA</h5>
@@ -52,8 +52,8 @@ function Footer() {
               <p>Riverside</p>
             </div>
           </div>
-        </Col>
-        <Col xl={3} lg={3} md={3} xs={10}>
+        </div>
+        <div>
           <div className="flex justify-center items-center text-white">
             <div>
               <h5>Casita</h5>
@@ -68,8 +68,8 @@ function Footer() {
               <p>Contact Us</p>
             </div>
           </div>
-        </Col>
-        <Col xl={3} lg={3} md={3} xs={10}>
+        </div>
+        <div >
           <div className="flex justify-center items-center text-white">
             <div>
               <h5>Useful Links</h5>
@@ -82,12 +82,12 @@ function Footer() {
               <p>Refer a Friend</p>
             </div>
           </div>
-        </Col>
-        <Col xl={8} lg={8} md={7} xs={10}>
+        </div>
+        <div>
           <div className="flex justify-center items-center text-white">
             <div>
               <h5>Follow us on</h5>
-              <div className="text-[1.5rem] gap-3 flex mt-4">
+              <div className="text-[1.5rem] gap-1 md:gap-2 flex mt-4">
                 <FacebookOutlined />
                 <InstagramOutlined />
                 <TwitterOutlined />
@@ -104,8 +104,8 @@ function Footer() {
               />
             </div>
           </div>
-        </Col>
-      </Row>
+        </div>
+      </div>
     </div>
   );
 }
